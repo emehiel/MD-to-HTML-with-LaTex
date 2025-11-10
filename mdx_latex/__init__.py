@@ -2,7 +2,7 @@
 LaTeX Extension for Python-Markdown
 ===============================
 
-Adds support for LaTeX math equations in markdown.
+Adds support for LaTeX math equations in markdown for use in Canvas.
 """
 from markdown.extensions import Extension
 from markdown.inlinepatterns import Pattern
